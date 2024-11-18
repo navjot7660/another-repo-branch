@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "Hooyah!!!"
+echo "Hooyah!!!chicken dinner"
+echo "dev1"
